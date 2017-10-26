@@ -9,11 +9,11 @@ The if statement executes different blocks of code based on conditions.
 ```
 if (condition)
 {
-	// Do something when `condition` is true
+	//Do something when `condition` is true
 }
 else
 {
-	// Do something when `condition` is false
+	//Do something when `condition` is false
 }
 ```
 
@@ -22,15 +22,15 @@ When `condition` is true, code inside the `if` section executes, otherwise `else
 ```
 if (condition)
 {
-	// Do something if `condition` is true
+	//Do something if `condition` is true
 }
 else if (anotherCondition)
 {
-	// Do something if `anotherCondition` is ture
+	//Do something if `anotherCondition` is ture
 }
 else
 {
-	// Do something if `condition` AND `anotherCondition` is false
+	//Do something if `condition` AND `anotherCondition` is false
 }
 ```
 
