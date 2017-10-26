@@ -14,7 +14,6 @@ for (int i = 0; i < array.Length; i++)
 	Console.WriteLine("Item on index {0} is {1}", i, array[i]);
 }
 ```
-
 ## Output:
 ```
 > Item on index 0 is 1
