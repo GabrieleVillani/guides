@@ -10,6 +10,7 @@ We exit from the switch by `break`.
 
 ## Example
 ```
+
 int number = 1;
 
 switch(number)
@@ -26,6 +27,7 @@ switch(number)
         Console.WriteLine("I don't know this number!");
         break;
 }
+
 ```
 
 ## Output:
