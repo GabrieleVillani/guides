@@ -9,11 +9,14 @@ The `do while` loop executes a block of code once and until a condition is false
 ## Example
 ```
 string input = "";
+
 do
 {
 	Console.WriteLine("Type A to continue: ");
 	input = Console.ReadLine();
-} while(input != "A");
+	
+}
+while(input != "A");
 
 Console.WriteLine("Bye!");
 ```
